@@ -18,6 +18,7 @@ int partition(vector<int>& nums, int left, int right, int pivot) {
             right--;
         }
     }
+    
     return left;
 }
 
